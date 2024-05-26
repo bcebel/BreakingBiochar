@@ -66,10 +66,10 @@ function App() {
             collection and transportation of organic waste, the energy required
             to heat the waste, and the equipment needed to produce and store the
             Biochar. However, the benefits of Biochar, such as improved soil
-            health, increased crop yields, and carbon sequestration, can
-            outweigh the costs in the long run. In addition, the sale of carbon
-            credits and other products generated from Biochar can help offset
-            the initial investment.
+            health, increased crop yields, green building materials, and carbon
+            sequestration, can outweigh the costs in the long run. In addition,
+            the sale of carbon credits and other products generated from Biochar
+            can help offset the initial investment.
           </p>
           <h2>Competition</h2>
           <p>
