@@ -52,13 +52,10 @@ function App() {
             The government lol, Direct Air Carbon Capture & Storage, Bioenergy
             with Carbon Capture and Storage BECCS, CCS, Soil Amendments,
             Landfill Gas Capture, Phytoremediation, Water Treatment
-          </p>
-
-          <p>
+    
             Biochar can be used for green energy production, carbon
             sequestration, and improving soil health.
-          </p>
-          <p>
+        
             It is an affordable and sustainable solution, making it an
             attractive option for combating climate change.
           </p>
