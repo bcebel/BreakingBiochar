@@ -8,12 +8,20 @@ body {
   font-style: normal;
   font-variation-settings:
     "slnt" 0;
-    background-color: hsl(210, 80%, 50%);
+    color:rgb(255, 255, 255);
+  background-image: url(./earth.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+/* background-color: hsl(210, 80%, 50%);
     background: rgb(174,200,238);
 background: linear-gradient(90deg, rgba(174,200,238,1) 0%, rgba(25,113,216,1) 100%);
     color: rgb(0, 0, 0);
-    
+   */ 
 }
+
+
 
 .inter-fontinter {
   font-family: "Inter", sans-serif;
@@ -30,7 +38,7 @@ background: linear-gradient(90deg, rgba(174,200,238,1) 0%, rgba(25,113,216,1) 10
 .header {
     padding: 20px 0;
     text-align: center;
-    color:#000000
+    color:#ffffff
 }
 
 .header h1 {
@@ -40,6 +48,7 @@ background: linear-gradient(90deg, rgba(174,200,238,1) 0%, rgba(25,113,216,1) 10
 
 .main-content {
     padding: 40px 0;
+    background: rgba(2, 35, 171, 0.5);
 }
 
 .section {
@@ -54,6 +63,8 @@ background: linear-gradient(90deg, rgba(174,200,238,1) 0%, rgba(25,113,216,1) 10
 
 .section p {
     line-height: 1.5;
+  background-color:black;
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .footer {
