@@ -98,16 +98,18 @@ function App() {
             Brian Ebel is the founder of Breaking Biochar. He is a Legacy
             LEED-AP from the US Green Building Council. LEED stands for
             Leadership in Energy & Environmental Design Accredited Professional.
-            He has a BS in Environmental Science and has been working in the
-            field of sustainability for over 10 years. He is passionate about
-            finding innovative solutions to combat climate change and protect
-            the environment. He has campaigned for the environment, cleaned up
-            NASA & IBM sites, and has been a part of the green building movement
-            since 2008.
+            He has a BS in Environmental Science from Vermont State University
+            and has been working in the field of sustainability for over 10
+            years. He is passionate about finding innovative solutions to combat
+            climate change and protect the environment. He has campaigned for
+            the environment, cleaned up NASA & IBM sites, and has been a part of
+            the green building movement since 2008.
           </p>{" "}
           <p>
-            Kevin Watters is the co-founder of Breaking Biochar. He has a
-            background in engineering and has been working in the field of
+            Kevin Watters is the co-founder of Breaking Biochar. He has a Master
+            of Science in Technology Commercialization from University of Texas,
+            and a Bachelor of Architecture from Rensselaer University. in He has
+            a background in engineering and has been working in the field of
             sustainable architecture and industrial design. He is passionate
             about finding profitable, sustainable solutions to our current
             challenges. He is committed to making Biochar a viable and
