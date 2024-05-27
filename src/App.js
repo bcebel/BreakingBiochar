@@ -23,9 +23,9 @@ function App() {
           </p>
           <h2>Approach</h2>
           <p>
-            Biochar hacks the carbon cycle, turning waste into a resource. Ever
+            Biochar hacks the carbon cycle, turning waste into a resource. Have you ever
             gotten an Amazon delivery box and wish you didn't have to deal with
-            it after you get your goodie delivered? We can produce clean carbon
+            the box after you get your goodie delivered? We can produce clean carbon
             from all of that waste and put it back into the soil and into green
             building materials, otherwise that carboard box is going to end up
             as CO2 in our atmosphere when it breaks down. We handle the
