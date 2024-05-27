@@ -34,7 +34,7 @@ function App() {
             as pyrolysis. Initially, we will focus on volume, diverting as much
             carbon waste into solid carbon as possible. We will utilize an 'Air
             Curtain' that blows air onto the top of the fire, this keeps the
-            smoke from being emitted and it give oxygen to the top of the fire.
+            smoke from being emitted and it gives oxygen to the top of the fire.  Creating a toasty, clean burn that reburns the smoke until the smoke is gone.  That toasty fire is what is required to create the char.
             We would use the Char-Boss by Air Burners.{" "}
             <a
               href="https://airburners.com/products/boss-series/charboss/"
