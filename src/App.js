@@ -10,8 +10,7 @@ function App() {
       </header>
       <main className="main-content">
         <section className="section">
-          <h2>Biochar</h2>
-          <p>
+          <h3 className="mission">
             Breaking Biochar is an Austin Texas based company that specializes
             in the production of Biochar. Our focus is on converting consumer
             waste into biochar, a carbon-rich material that enhances building
@@ -20,7 +19,7 @@ function App() {
             help combat climate change by providing an affordable and
             sustainable solution for carbon capture and storage. We are the
             future, and we are here now.
-          </p>
+          </h3>
           <h2>Approach</h2>
           <p>
             Biochar revolutionizes the carbon cycle by transforming waste into a
@@ -36,30 +35,35 @@ function App() {
             carbon waste into solid carbon as possible. We will utilize an 'Air
             Curtain' that blows air onto the top of the fire, this keeps the
             smoke from being emitted and it give oxygen to the top of the fire.
-            We would use the Char-Boss by Air Burners.
-            https://airburners.com/products/boss-series/charboss/ It burns
-            cleaner than an open burn and is considered an acceptable biochar
-            technology in the EU because it burns so cleanly. The bottom of the
-            pile is designed to not allow air in, so the hot, efficient burn at
-            the top of the pile heats up the entire pile. The bottom of the pile
-            is not recieving oxygen because the fire above it is consuming all
-            of the oxygen to maintain the fire. The heat from the fire and the
-            absense of oxygen is what is required to perform pyrolysis which
-            creates the char. The biochar is then sent to a conveyer and is
-            quenched in water, putting it out and cooling it off. Then the
-            biochar is ready for storage. The Charboss only requires the
-            operation of the air curtain which is essentially a fan, and the
-            conveyer which sends out the biochar. We will source carbon from the
-            City of Austin TX using public and private sources for materials. We
-            can help reduce landfill volume and help clean up the wastestream
-            locally. We will cross promote our progress as a community. Every
-            household in America generates 5 pounds of trash a day and half of
-            that is organic material that could become biochar. We want it. We
-            will sell our carbon credits on Puro.Earth and other marketplaces.
-            We would also generate products from the biochar generated, from
-            soil ammendments to green building materials such as carbonized
-            cement. Cement is the number one product used by humans on the
-            planet and it turns out that carbon can make it stronger and
+            We would use the Char-Boss by Air Burners.{" "}
+            <a
+              href="https://airburners.com/products/boss-series/charboss/"
+              target="_blank"
+            >
+              https://airburners.com/products/boss-series/charboss/
+            </a>{" "}
+            It burns cleaner than an open burn and is considered an acceptable
+            biochar technology in the EU because it burns so cleanly. The bottom
+            of the pile is designed to not allow air in, so the hot, efficient
+            burn at the top of the pile heats up the entire pile. The bottom of
+            the pile is not recieving oxygen because the fire above it is
+            consuming all of the oxygen to maintain the fire. The heat from the
+            fire and the absense of oxygen is what is required to perform
+            pyrolysis which creates the char. The biochar is then sent to a
+            conveyer and is quenched in water, putting it out and cooling it
+            off. Then the biochar is ready for storage. The Charboss only
+            requires the operation of the air curtain which is essentially a
+            fan, and the conveyer which sends out the biochar. We will source
+            carbon from the City of Austin TX using public and private sources
+            for materials. We can help reduce landfill volume and help clean up
+            the wastestream locally. We will cross promote our progress as a
+            community. Every household in America generates 5 pounds of trash a
+            day and half of that is organic material that could become biochar.
+            We want it. We will sell our carbon credits on Puro.Earth and other
+            marketplaces. We would also generate products from the biochar
+            generated, from soil ammendments to green building materials such as
+            carbonized cement. Cement is the number one product used by humans
+            on the planet and it turns out that carbon can make it stronger and
             lighter. Biochar production also has the incredible benefit of being
             able to generate green fuels packed with hydrogen. As we gain
             efficiency we will bring in more equipment to divert gasses from
