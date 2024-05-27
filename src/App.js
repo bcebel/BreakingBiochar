@@ -14,11 +14,11 @@ function App() {
             Breaking Biochar is an Austin Texas based company that specializes
             in the production of Biochar. We focus on converting consumer waste
             into Biochar, a carbon-rich material that can be used to make better
-            building materials, improve soil health, increase crop yields, and sequester
-            carbon dioxide from the atmosphere. Our mission is to help combat
-            climate change by providing an affordable and sustainable solution
-            for carbon capture and storage. We are the future, and we are here
-            now.
+            building materials, improve soil health, increase crop yields, and
+            sequester carbon dioxide from the atmosphere. Our mission is to help
+            combat climate change by providing an affordable and sustainable
+            solution for carbon capture and storage. We are the future, and we
+            are here now.
           </p>
           <h2>Approach</h2>
           <p>
@@ -35,21 +35,23 @@ function App() {
             carbon waste into solid carbon as we can. We will source carbon from
             the City of Austin TX using public and private sources for
             materials. We can help reduce landfill volume and help clean up the
-            wastestream locally. We will sell our carbon credits on Puro.Earth
-            and other marketplaces. We would also generate products from the
-            biochar generated, from soil ammendments to green building materials
-            such as carbonized cement. Cement is the number one product used by
-            humans on the planet and it turns out that carbon can make it
-            stronger and lighter. Biochar production also has the incredible
-            benefit of being able to generate green fuels packed with hydrogen.
-            As we gain efficiency we will bring in more equipment to divert
-            gasses from production to create green fuels and green energy
-            produced on site. While we are doing all of that we would continue
-            to research best practices and look into scaling our operation
-            across the USA. Every town can do this and we can help them get
-            started. We would also look into creating a United States biochar
-            standard and creating our own marketplace for credits and green
-            products.
+            wastestream locally. We will cross promote our progress as a
+            community. Every household in America generates 5 pounds of trash a
+            day and half of that is organic material that could become biochar.
+            We want it. We will sell our carbon credits on Puro.Earth and other
+            marketplaces. We would also generate products from the biochar
+            generated, from soil ammendments to green building materials such as
+            carbonized cement. Cement is the number one product used by humans
+            on the planet and it turns out that carbon can make it stronger and
+            lighter. Biochar production also has the incredible benefit of being
+            able to generate green fuels packed with hydrogen. As we gain
+            efficiency we will bring in more equipment to divert gasses from
+            production to create green fuels and green energy produced on site.
+            While we are doing all of that we would continue to research best
+            practices and look into scaling our operation across the USA. Every
+            town can do this and we can help them get started. We would also
+            look into creating a United States biochar standard and creating our
+            own marketplace for credits and green products.
           </p>
           <h2>Benefits</h2>
           <p>
@@ -70,17 +72,17 @@ function App() {
             generations to come. By converting waste into Biochar before it ends
             up in a landfill we eliminate the methane production that occurs in
             landfills. Methane is 25 times more potent than CO2 as a greenhouse
-            gas. Even if landfills burn the methane, it is then converted to
-            CO2 and released to the atmosphere. By converting waste into Biochar we can sequester the carbon
-            for 100 years or more. This is a win-win for the environment and the
-            economy. We can also generate green fuels and green energy from the
-            gasses produced during the pyrolysis process. This is a great way to
-            reduce our dependence on fossil fuels and reduce our carbon
-            footprint. Biochar is a sustainable and cost-effective solution for
-            carbon capture and storage. By converting waste into Biochar we can
-            reduce source greenhouse gas emissions and create a more sustainable
-            future for generations to come. We are the future, and we are here
-            now. Breaking Biochar.
+            gas. Even if landfills burn the methane, it is then converted to CO2
+            and released to the atmosphere. By converting waste into Biochar we
+            can sequester the carbon for 100 years or more. This is a win-win
+            for the environment and the economy. We can also generate green
+            fuels and green energy from the gasses produced during the pyrolysis
+            process. This is a great way to reduce our dependence on fossil
+            fuels and reduce our carbon footprint. Biochar is a sustainable and
+            cost-effective solution for carbon capture and storage. By
+            converting waste into Biochar we can reduce source greenhouse gas
+            emissions and create a more sustainable future for generations to
+            come. We are the future, and we are here now. Breaking Biochar.
           </p>
           <h2>Costs</h2>
           <p>
@@ -101,20 +103,21 @@ function App() {
             still increasing. We've been sold on a million high tech solutions
             that ultimately go nowhere, fast. Remember glaciers? Those were
             cool. You can spend a billion dollars to make all of the machinery
-            to pull carbon directly from the air but you can let the plants do
-            that part for us for FREE, and it turns out there is a ton of carbon in our
-            waste stream already. Oh and we don't have to inject C02 into the
-            core of the earth, cause that sounds like fun. No. Instead, we get a
-            clean building material that can be used in a variety of
+            to pull carbon directly from the air or you can let plant life do
+            that part for us for FREE, and it turns out there is a ton of carbon
+            in our waste stream already. Oh and we don't have to inject C02 into
+            the core of the earth, cause that sounds like fun. No. Instead, we
+            get a clean building material that can be used in a variety of
             applications, and it turns out that plants and soil love it too. So
             we can make a profit and save the planet at the same time. Or just
             let AI just handle everything, we can micro-manage our way out of
             the climate crisis. I mean, what could go wrong? AI is amazing, it
-            is great at monitoring global emissions and putting that data into a JSON document, but as of yet AI hasn't
-            actually sequestered any carbon. In fact it uses energy, and that
-            energy is usually generated by burning fossil fuels. So we are going
-            to need a lot of Biochar to offset that. Breaking Biochar, we are
-            the future, and we are here now.
+            is great at monitoring global emissions and putting that data into a
+            JSON document, but as of yet AI hasn't actually sequestered any
+            carbon. In fact it uses energy, and that energy is usually generated
+            by burning fossil fuels. So we are going to need a lot of Biochar to
+            offset that. Breaking Biochar, we are the future, and we are here
+            now.
           </p>
           <h2>About Us</h2>
           <p>
