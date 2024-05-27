@@ -34,11 +34,16 @@ background: linear-gradient(90deg, rgba(174,200,238,1) 0%, rgba(25,113,216,1) 10
 .container {
     margin: 0 auto;
 }
+img{
+    width: 20%;
+    height: auto;
+}
 
 .header {
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: center;
-    color:#ffffff
+    color:#ffffff;
+        background: rgba(2, 35, 171, 0.5);
 }
 
 .header h1 {
@@ -47,7 +52,7 @@ background: linear-gradient(90deg, rgba(174,200,238,1) 0%, rgba(25,113,216,1) 10
 }
 
 .main-content {
-    padding: 40px 0;
+    padding: 30px 0;
     background: rgba(2, 35, 171, 0.5);
 }
 

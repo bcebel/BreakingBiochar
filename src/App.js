@@ -1,11 +1,12 @@
 import React from "react";
-import earth from "./earth.jpg";
 
+import logo from "./bb.png";
 function App() {
   return (
     <div className="container">
       <header className="header">
         <h1>Breaking Biochar</h1>
+        <img src={logo} alt="Logo" />
       </header>
       <main className="main-content">
         <section className="section">
@@ -147,6 +148,10 @@ function App() {
             to making Biochar a mainstream solution for carbon capture and
             storage. We are committed to creating a sustainable future for
             generations to come. We are Breaking Biochar.
+          </p>
+          <p>
+            Email us at: <a href="mailto:bcebel@gmail.com">bcebel@gmail.com</a>
+            Call us at: <a href="tel:405-650-0063">405-650-0063</a>
           </p>
         </section>
         {/* Add more sections as needed */}
