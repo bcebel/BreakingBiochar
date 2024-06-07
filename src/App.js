@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./App.scss";
 import logo from "./bb.png";
 function App() {
   return (
@@ -11,32 +11,28 @@ function App() {
       <main className="main-content">
         <section className="section">
           <h3 className="mission">
-            Breaking Biochar is an Austin Texas based company that specializes
-            in the production of Biochar. Our focus is on converting consumer
-            waste into biochar, a carbon-rich material that enhances building
-            materials, improves soil health, increases crop yields, and
-            sequesters carbon dioxide from the atmosphere. Our mission is to
-            help combat climate change by providing an affordable and
-            sustainable solution for carbon capture and storage.
+            Breaking Biochar is an Austin Texas based company that turns
+            consumer waste into biochar, a carbon-rich material that sequesters
+            carbon dioxide from the atmosphere. Our mission is to help combat
+            climate change by providing an affordable and sustainable solution
+            for carbon capture and storage.  Because biochar is carbon negative,
+            its production can be used to earn carbon credits. It also has many
+            beneficial uses from improving soil health, increasing crop yields,
+            and production of greener home goods and building materials.
           </h3>
           <h2>Approach</h2>
           <p>
             Biochar revolutionizes the carbon cycle by transforming waste into a
-            valuable resource. Have you ever received an Amazon delivery and
-            wished you didn't have to deal with the box afterward? We can
-            produce clean carbon from all of that waste and put it back into the
-            soil and into green building materials. When organic matter breaks
-            down naturally, it releases carbon dioxide (CO2) into the
-            atmosphere. By converting organic waste into biochar, we can lock up
-            carbon for hundreds of years, preventing it from being released into
-            the atmosphere. This helps to reduce greenhouse gas emissions and
-            mitigate the effects of climate change. Biochar is a stable form of
-            carbon that can be used to improve soil health, increase crop
-            yields, and sequester carbon dioxide from the atmosphere. It is a
+            valuable resource. Even when organic matter breaks down naturally,
+            it still releases carbon dioxide (CO2) into the atmosphere. Its
+            called the carbon cycle for a reason. Converting organic waste into
+            biochar locks up carbon for hundreds of years, and prevents it from
+            being released into the atmosphere. This helps to reduce greenhouse
+            gas emissions and mitigate the effects of climate change. It is a
             cost-effective and sustainable solution for carbon capture and
-            storage. Biochar handles the "Storage" part of Carbon Capture and
-            Storage. Trees and plants have already done the "Carbon Capture" for
-            us through photosynthesis! We just lock up that carbon for the rest
+            storage. Trees and plants have already done the "Carbon Capture" for
+            us through photosynthesis. Biochar handles the "Storage" part of
+            Carbon Capture and Storage. We just lock up that carbon for the rest
             of our lives by adding it to soil and cement so it can't burn up and
             end up back in the air one day.{" "}
           </p>
@@ -61,13 +57,11 @@ function App() {
             It burns cleaner than an open burn and is considered an acceptable
             biochar technology in the EU because it burns so cleanly. The bottom
             of the pile is designed to not allow air in, so the hot, efficient
-            burn at the top of the pile heats up the entire pile. The heat from
-            the fire and the absense of oxygen is what is required to perform
-            pyrolysis which creates the char. The biochar is then sent to a
-            conveyer and is quenched in water, putting it out and cooling it
-            off. Then the biochar is ready for storage. The Charboss only
-            requires the operation of the air curtain which is essentially a
-            fan, and the conveyer which sends out the biochar.{" "}
+            burn at the top of the pile heats up the entire pile. The biochar is
+            then sent to a conveyer and is quenched in water, putting it out and
+            cooling it off. The Charboss only requires the operation of the air
+            curtain which is essentially a fan, and the conveyer which sends out
+            the biochar.{" "}
           </p>
           <p>
             We will source carbon from the City of Austin TX using public and
@@ -78,39 +72,35 @@ function App() {
             could become biochar. We want it.{" "}
           </p>
           <p>
-            We will sell our carbon credits on Puro.Earth and other
-            marketplaces. We would also generate products from the biochar
-            generated, from soil ammendments to green building materials such as
-            carbonized cement. Cement is the number one product used by humans
-            on the planet and it turns out that carbon can make it stronger and
-            lighter. Biochar production also has the incredible benefit of being
-            able to generate green fuels packed with hydrogen. As we gain
-            efficiency we will bring in more equipment to divert gasses from
-            production to create green fuels and green energy produced on site.
-            While we are doing all of that we would continue to research best
-            practices and look into scaling our operation across the USA. Every
-            town can do this and we can help them get started. We would also
-            look into creating a United States biochar standard and creating our
-            own marketplace for credits and green products.
+            We will sell our carbon credits on Puro.Earth and other carbon
+            credit marketplaces. We would also generate products from the
+            biochar generated, from soil ammendments to green building materials
+            such as carbonized cement. Cement is the number one product used by
+            humans on the planet and it turns out that carbon can make it
+            stronger and lighter. Biochar production also has the incredible
+            benefit of being able to generate green fuels packed with hydrogen.
+            As we gain efficiency we will bring in more equipment to divert
+            gasses from production to create green fuels and green energy
+            produced on site. While we are doing all of that we would continue
+            to research best practices and look into scaling our operation
+            across the USA. Every town can do this and we can help them get
+            started. We would also look into creating a United States biochar
+            standard and creating our own marketplace for credits and green
+            products.
           </p>
           <h2>Benefits</h2>
           <p>
             Carbon has thousands of industrial applications, including cement
             production, soil amendments, filtration, green building materials,
-            carbon fiber, hydrogen production, and graphene. Biochar sequesters
-            carbon for 100 years or more. Biochar also reduces landfill volume
-            and their associated methane emissions. Combining biochar with soil
-            and compost enhances soil health and boosts crop yields. Carbon
-            credits can be sold on the open market, generating revenue for the
-            company and helping countries to meet their climate goals. The need
-            for carbon sequestration is growing as the effects of climate change
-            become more severe. By converting waste into Biochar, we reduce
-            source greenhouse gas emissions, and create a more sustainable
-            future for generations to come. By converting waste into Biochar
-            before it ends up in a landfill we eliminate the methane production
-            that occurs in landfills. Methane is 25 times more potent than CO2
-            as a greenhouse gas. Even if landfills burn the methane, it is then
-            converted to CO2 and released to the atmosphere. We can also
+            carbon fiber, hydrogen production, and graphene. Biochar also
+            reduces landfill volume and their associated methane emissions.
+            Combining biochar with soil and compost enhances soil health and
+            boosts crop yields. Carbon credits can be sold on the open market,
+            generating revenue for the company and helping countries to meet
+            their climate goals. The need for carbon sequestration is growing as
+            the effects of climate change become more severe. Methane is 25
+            times more potent than CO2 as a greenhouse gas. By diverting waste
+            from landfills we stop the methane from forming. We can also
             generate green fuels and green energy from the gasses produced
             during the pyrolysis process. This is a great way to reduce our
             dependence on fossil fuels and reduce our carbon footprint. Biochar
@@ -142,11 +132,11 @@ function App() {
             have limited scalability. Biochar is a cost-effective, sustainable,
             and scalable solution for carbon capture and storage. It has the
             potential to revolutionize the way we think about waste and carbon
-            sequestration. Biochar literally only requires a fire to produce. It
-            is the most cost effective way to sequester carbon and is beneficial
-            to the environment. The other methods of carbon capture are
-            expensive and require a lot of energy to operate. Biochar is a
-            win-win for the environment and the economy.
+            sequestration. Biochar literally only requires a fire and some
+            biomass to produce. It is the most cost effective way to sequester
+            carbon and is beneficial to the environment. The other methods of
+            carbon capture are expensive and require a lot of energy to operate.
+            Biochar is a win-win for the environment and the economy.
           </p>
           <h2>About Us</h2>
           <p>
