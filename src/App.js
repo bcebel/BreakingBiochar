@@ -49,6 +49,7 @@ function App() {
               with local farmers to use biochar as a soil amendment. As we scale
               up, we will invest in larger pyrolysis units that can process
               larger volumes of organic waste.{" "}
+            </p>
             <p>
               We will source carbon waste from the City of Austin TX and local businesses using public and
               private sources for materials. We can help reduce landfill volume
@@ -71,6 +72,7 @@ function App() {
               credits and green products.
             </p>
           </div>
+
           <div class="benefits">
             <h2>Benefits</h2>
             <p>
