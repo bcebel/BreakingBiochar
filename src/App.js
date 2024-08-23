@@ -128,10 +128,9 @@ function App() {
           <h2>About Us</h2>
           <p>
             Brian Ebel is the founder of lo-co2. He is a Legacy LEED-AP from the
-            US Green Building Council. LEED stands for Leadership in Energy &
-            Environmental Design Accredited Professional. He holds a BS in
+            US Green Building Council.  He holds a BS in
             Environmental Science from Vermont State University and has over 10
-            years of experience in sustainability. He is passionate about
+            years of experience in sustainability & remediation. He is passionate about
             finding innovative solutions to combat climate change and protect
             the environment. He has campaigned for the environment, cleaned up
             NASA & IBM sites, and been part of the green building movement since
