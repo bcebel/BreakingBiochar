@@ -11,11 +11,10 @@ function App() {
       <main className="main-content">
         <section className="section">
           <h3 className="mission">
-            lo-co2 turns consumer waste
-            into biochar, a carbon-rich material that sequesters carbon dioxide
-            from the atmosphere. Our mission is to help combat climate change by
-            providing an affordable and sustainable solution for carbon capture
-            and storage.
+            lo-co2 turns consumer waste into biochar, a carbon-rich material
+            that sequesters carbon dioxide from the atmosphere. Our mission is
+            to help combat climate change by providing an affordable and
+            sustainable solution for carbon capture and storage.
           </h3>
           <p>
             Biochar has the potential to revolutionize the way we think about
@@ -28,30 +27,31 @@ function App() {
               environment, a process known as pyrolysis. Trees and plants have
               already done the "Carbon Capture" for us through photosynthesis.
               Biochar handles the "Storage" part of Carbon Capture and Storage.
-              We just lock up that carbon for the rest of our lives instead of letting it emit CO2 in your local landfill.{" "}
+              We just lock up that carbon for the rest of our lives instead of
+              letting it emit CO2 in your local landfill.{" "}
             </p>
             <p>
-              We source organic waste from local businesses, schools, and
+              We source organic waste from local businesses, schools, towns and
               households. We also partner with local farmers to use biochar as a
               soil amendment. As we scale, we will invest in larger pyrolysis
-              units that can process larger volumes of organic waste.  Every town in the world should be doing this, we want to help.{" "}
+              units that can process larger volumes of organic waste. Every town
+              in the world should be doing this, we want to help.{" "}
             </p>
             <p>
-              We source carbon waste from the local
-              businesses and municipalities. We can
-              help reduce landfill volume and help clean up the wastestream
-              locally. We cross promote our progress as a community and online. Every
-              household in America generates 5 pounds of trash a day and half of
-              that is organic material that could become biochar. We want it.{" "}
+              We help reduce landfill volume and help clean up the wastestream
+              locally. We cross promote our progress as a community and online.
+              Every household in America generates 5 pounds of trash a day and
+              half of that is organic material that could become biochar. We
+              want it.{" "}
             </p>
             <p>
               We sell our carbon credits on Puro.Earth and other carbon credit
-              marketplaces. We would also generate products from the biochar
-              generated, from soil ammendments to green building materials.
-              Biochar production also has the incredible benefit of being able
-              to generate green fuels packed with hydrogen. We can also generate
-              green energy from the gasses produced during the pyrolysis
-              process.{" "}
+              marketplaces. We also generate products from the biochar
+              generated, from soil ammendments to green building materials and
+              cat litter. Biochar production also has the incredible benefit of
+              being able to generate green fuels packed with hydrogen. We can
+              also generate green energy from the gasses produced during the
+              pyrolysis process.{" "}
             </p>
           </div>
           <div class="benefits">
