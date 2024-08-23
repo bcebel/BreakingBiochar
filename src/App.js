@@ -11,7 +11,7 @@ function App() {
       <main className="main-content">
         <section className="section">
           <h3 className="mission">
-            lo-co2 is an Austin Texas based company that turns consumer waste
+            lo-co2 turns consumer waste
             into biochar, a carbon-rich material that sequesters carbon dioxide
             from the atmosphere. Our mission is to help combat climate change by
             providing an affordable and sustainable solution for carbon capture
