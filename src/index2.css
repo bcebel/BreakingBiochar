@@ -1,0 +1,121 @@
+@use "@carbon/react";
+
+/* Aspect Ratio
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+*/
+.approach {
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 656px;
+  height: 328px;
+
+  background: #edf5ff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+
+/* Aspect Ratio
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+*/
+.benefits {
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  isolation: isolate;
+
+  width: 328px;
+  height: 656px;
+
+  background: #edf5ff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.costs {
+  /* Aspect Ratio
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+*/
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 656px;
+  height: 328px;
+
+  background: #edf5ff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+
+.competition {
+  /* Aspect Ratio
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+
+<p>To vertically resize this aspect ratio set the vertical resizing property to fill container</p>
+*/
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  isolation: isolate;
+
+  width: 328px;
+  height: 656.01px;
+
+  background: #edf5ff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* Square */
+.mission {
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10.6667px;
+
+  width: 333.33px;
+  height: 333.33px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
